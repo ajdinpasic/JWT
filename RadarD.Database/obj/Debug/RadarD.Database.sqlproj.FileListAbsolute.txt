@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\RadarD\RadarD.Database\bin\Debug\RadarD.Database.dacpac
+C:\Users\User\source\repos\RadarD\RadarD.Database\bin\Debug\RadarD.Database.dll
+C:\Users\User\source\repos\RadarD\RadarD.Database\bin\Debug\RadarD.Database.pdb
+C:\Users\User\source\repos\RadarD\RadarD.Database\obj\Debug\RadarD.Database.sqlproj.AssemblyReference.cache
+C:\Users\User\source\repos\RadarD\RadarD.Database\obj\Debug\Model.xml
+C:\Users\User\source\repos\RadarD\RadarD.Database\obj\Debug\refactor.xml
+C:\Users\User\source\repos\RadarD\RadarD.Database\obj\Debug\postdeploy.sql
+C:\Users\User\source\repos\RadarD\RadarD.Database\obj\Debug\predeploy.sql
+C:\Users\User\source\repos\RadarD\RadarD.Database\obj\Debug\RadarD.Database.dll
+C:\Users\User\source\repos\RadarD\RadarD.Database\obj\Debug\RadarD.Database.pdb

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\RadarD\RadarD.BLL\bin\Debug\net6.0\RadarD.BLL.deps.json
+C:\Users\User\source\repos\RadarD\RadarD.BLL\bin\Debug\net6.0\RadarD.BLL.dll
+C:\Users\User\source\repos\RadarD\RadarD.BLL\bin\Debug\net6.0\RadarD.BLL.pdb
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.AssemblyInfo.cs
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.dll
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\refint\RadarD.BLL.dll
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.pdb
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\ref\RadarD.BLL.dll
+C:\Users\User\source\repos\RadarD\RadarD.BLL\bin\Debug\net6.0\RadarD.DAL.dll
+C:\Users\User\source\repos\RadarD\RadarD.BLL\bin\Debug\net6.0\RadarD.DAL.pdb
+C:\Users\User\source\repos\RadarD\RadarD.BLL\obj\Debug\net6.0\RadarD.BLL.csproj.CopyComplete

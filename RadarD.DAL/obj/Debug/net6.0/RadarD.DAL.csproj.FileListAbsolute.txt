@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RadarD\RadarD.DAL\bin\Debug\net6.0\RadarD.DAL.deps.json
+C:\Users\User\source\repos\RadarD\RadarD.DAL\bin\Debug\net6.0\RadarD.DAL.dll
+C:\Users\User\source\repos\RadarD\RadarD.DAL\bin\Debug\net6.0\RadarD.DAL.pdb
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\RadarD.DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\RadarD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\RadarD.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\RadarD.DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\RadarD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\RadarD.DAL.dll
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\refint\RadarD.DAL.dll
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\RadarD.DAL.pdb
+C:\Users\User\source\repos\RadarD\RadarD.DAL\obj\Debug\net6.0\ref\RadarD.DAL.dll

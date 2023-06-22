@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[User]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Email] NVARCHAR(MAX) NOT NULL, 
+    [PasswordHash] VARBINARY(MAX) NOT NULL, 
+    [PasswordSalt] VARBINARY(MAX) NOT NULL, 
+    [Jwt] NVARCHAR(MAX) NULL, 
+    [Expiry] DATETIME2 NULL
+)

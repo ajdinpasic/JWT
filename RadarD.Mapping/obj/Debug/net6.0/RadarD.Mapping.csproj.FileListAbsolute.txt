@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\bin\Debug\net6.0\RadarD.Mapping.deps.json
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\bin\Debug\net6.0\RadarD.Mapping.dll
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\bin\Debug\net6.0\RadarD.Mapping.pdb
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\bin\Debug\net6.0\RadarD.BLL.dll
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\bin\Debug\net6.0\RadarD.DAL.dll
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\bin\Debug\net6.0\RadarD.BLL.pdb
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\bin\Debug\net6.0\RadarD.DAL.pdb
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.AssemblyInfo.cs
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.csproj.CopyComplete
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.dll
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\refint\RadarD.Mapping.dll
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\RadarD.Mapping.pdb
+C:\Users\User\source\repos\RadarD\RadarD.Mapping\obj\Debug\net6.0\ref\RadarD.Mapping.dll
